@@ -1,0 +1,28 @@
+body {
+  font-family: "Arial", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f5f5f5;
+  padding: 20px 0;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 50px;
+  height: auto;
+}
+
+.logo h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
